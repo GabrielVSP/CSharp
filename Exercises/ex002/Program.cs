@@ -18,7 +18,7 @@ namespace ex002
             bool isMarried = false;
             char symbol = '+';
 
-            String username = symbol + name;
+            string username = symbol + name;
 
             Console.WriteLine(num + num1);
 
