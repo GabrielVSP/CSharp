@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Documents\GitHub\CSharp\Projects\hyphotenuse calculator\bin\Debug\net8.0\hyphotenuse calculator.exe
+C:\Users\Gabriel\Documents\GitHub\CSharp\Projects\hyphotenuse calculator\bin\Debug\net8.0\hyphotenuse calculator.deps.json
+C:\Users\Gabriel\Documents\GitHub\CSharp\Projects\hyphotenuse calculator\bin\Debug\net8.0\hyphotenuse calculator.runtimeconfig.json
+C:\Users\Gabriel\Documents\GitHub\CSharp\Projects\hyphotenuse calculator\bin\Debug\net8.0\hyphotenuse calculator.dll
+C:\Users\Gabriel\Documents\GitHub\CSharp\Projects\hyphotenuse calculator\bin\Debug\net8.0\hyphotenuse calculator.pdb
+C:\Users\Gabriel\Documents\GitHub\CSharp\Projects\hyphotenuse calculator\obj\Debug\net8.0\hyphotenuse calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Documents\GitHub\CSharp\Projects\hyphotenuse calculator\obj\Debug\net8.0\hyphotenuse calculator.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Documents\GitHub\CSharp\Projects\hyphotenuse calculator\obj\Debug\net8.0\hyphotenuse calculator.AssemblyInfo.cs
+C:\Users\Gabriel\Documents\GitHub\CSharp\Projects\hyphotenuse calculator\obj\Debug\net8.0\hyphotenuse calculator.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\GitHub\CSharp\Projects\hyphotenuse calculator\obj\Debug\net8.0\hyphotenuse calculator.sourcelink.json
+C:\Users\Gabriel\Documents\GitHub\CSharp\Projects\hyphotenuse calculator\obj\Debug\net8.0\hyphotenuse calculator.dll
+C:\Users\Gabriel\Documents\GitHub\CSharp\Projects\hyphotenuse calculator\obj\Debug\net8.0\refint\hyphotenuse calculator.dll
+C:\Users\Gabriel\Documents\GitHub\CSharp\Projects\hyphotenuse calculator\obj\Debug\net8.0\hyphotenuse calculator.pdb
+C:\Users\Gabriel\Documents\GitHub\CSharp\Projects\hyphotenuse calculator\obj\Debug\net8.0\hyphotenuse calculator.genruntimeconfig.cache
+C:\Users\Gabriel\Documents\GitHub\CSharp\Projects\hyphotenuse calculator\obj\Debug\net8.0\ref\hyphotenuse calculator.dll
