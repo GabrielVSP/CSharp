@@ -1,0 +1,15 @@
+C:\Users\Gabriel\OneDrive\Documentos\GitHub\CSharp\Dotnet\coreConsole\bin\Debug\net8.0\coreConsole.exe
+C:\Users\Gabriel\OneDrive\Documentos\GitHub\CSharp\Dotnet\coreConsole\bin\Debug\net8.0\coreConsole.deps.json
+C:\Users\Gabriel\OneDrive\Documentos\GitHub\CSharp\Dotnet\coreConsole\bin\Debug\net8.0\coreConsole.runtimeconfig.json
+C:\Users\Gabriel\OneDrive\Documentos\GitHub\CSharp\Dotnet\coreConsole\bin\Debug\net8.0\coreConsole.dll
+C:\Users\Gabriel\OneDrive\Documentos\GitHub\CSharp\Dotnet\coreConsole\bin\Debug\net8.0\coreConsole.pdb
+C:\Users\Gabriel\OneDrive\Documentos\GitHub\CSharp\Dotnet\coreConsole\obj\Debug\net8.0\coreConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\OneDrive\Documentos\GitHub\CSharp\Dotnet\coreConsole\obj\Debug\net8.0\coreConsole.AssemblyInfoInputs.cache
+C:\Users\Gabriel\OneDrive\Documentos\GitHub\CSharp\Dotnet\coreConsole\obj\Debug\net8.0\coreConsole.AssemblyInfo.cs
+C:\Users\Gabriel\OneDrive\Documentos\GitHub\CSharp\Dotnet\coreConsole\obj\Debug\net8.0\coreConsole.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\OneDrive\Documentos\GitHub\CSharp\Dotnet\coreConsole\obj\Debug\net8.0\coreConsole.sourcelink.json
+C:\Users\Gabriel\OneDrive\Documentos\GitHub\CSharp\Dotnet\coreConsole\obj\Debug\net8.0\coreConsole.dll
+C:\Users\Gabriel\OneDrive\Documentos\GitHub\CSharp\Dotnet\coreConsole\obj\Debug\net8.0\refint\coreConsole.dll
+C:\Users\Gabriel\OneDrive\Documentos\GitHub\CSharp\Dotnet\coreConsole\obj\Debug\net8.0\coreConsole.pdb
+C:\Users\Gabriel\OneDrive\Documentos\GitHub\CSharp\Dotnet\coreConsole\obj\Debug\net8.0\coreConsole.genruntimeconfig.cache
+C:\Users\Gabriel\OneDrive\Documentos\GitHub\CSharp\Dotnet\coreConsole\obj\Debug\net8.0\ref\coreConsole.dll
