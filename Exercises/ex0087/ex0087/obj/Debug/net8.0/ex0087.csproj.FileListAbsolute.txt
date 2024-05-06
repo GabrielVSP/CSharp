@@ -1,0 +1,15 @@
+C:\Users\Gabriel\OneDrive\Documentos\GitHub\CSharp\Exercises\ex0087\ex0087\obj\Debug\net8.0\ex0087.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\OneDrive\Documentos\GitHub\CSharp\Exercises\ex0087\ex0087\obj\Debug\net8.0\ex0087.AssemblyInfoInputs.cache
+C:\Users\Gabriel\OneDrive\Documentos\GitHub\CSharp\Exercises\ex0087\ex0087\obj\Debug\net8.0\ex0087.AssemblyInfo.cs
+C:\Users\Gabriel\OneDrive\Documentos\GitHub\CSharp\Exercises\ex0087\ex0087\obj\Debug\net8.0\ex0087.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\OneDrive\Documentos\GitHub\CSharp\Exercises\ex0087\ex0087\obj\Debug\net8.0\ex0087.sourcelink.json
+C:\Users\Gabriel\OneDrive\Documentos\GitHub\CSharp\Exercises\ex0087\ex0087\bin\Debug\net8.0\ex0087.exe
+C:\Users\Gabriel\OneDrive\Documentos\GitHub\CSharp\Exercises\ex0087\ex0087\bin\Debug\net8.0\ex0087.deps.json
+C:\Users\Gabriel\OneDrive\Documentos\GitHub\CSharp\Exercises\ex0087\ex0087\bin\Debug\net8.0\ex0087.runtimeconfig.json
+C:\Users\Gabriel\OneDrive\Documentos\GitHub\CSharp\Exercises\ex0087\ex0087\bin\Debug\net8.0\ex0087.dll
+C:\Users\Gabriel\OneDrive\Documentos\GitHub\CSharp\Exercises\ex0087\ex0087\bin\Debug\net8.0\ex0087.pdb
+C:\Users\Gabriel\OneDrive\Documentos\GitHub\CSharp\Exercises\ex0087\ex0087\obj\Debug\net8.0\ex0087.dll
+C:\Users\Gabriel\OneDrive\Documentos\GitHub\CSharp\Exercises\ex0087\ex0087\obj\Debug\net8.0\refint\ex0087.dll
+C:\Users\Gabriel\OneDrive\Documentos\GitHub\CSharp\Exercises\ex0087\ex0087\obj\Debug\net8.0\ex0087.pdb
+C:\Users\Gabriel\OneDrive\Documentos\GitHub\CSharp\Exercises\ex0087\ex0087\obj\Debug\net8.0\ex0087.genruntimeconfig.cache
+C:\Users\Gabriel\OneDrive\Documentos\GitHub\CSharp\Exercises\ex0087\ex0087\obj\Debug\net8.0\ref\ex0087.dll
