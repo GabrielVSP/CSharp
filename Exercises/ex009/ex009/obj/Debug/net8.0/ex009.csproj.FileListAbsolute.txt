@@ -1,0 +1,15 @@
+C:\Users\Gabriel\OneDrive\Documentos\GitHub\CSharp\Exercises\ex009\ex009\bin\Debug\net8.0\ex009.exe
+C:\Users\Gabriel\OneDrive\Documentos\GitHub\CSharp\Exercises\ex009\ex009\bin\Debug\net8.0\ex009.deps.json
+C:\Users\Gabriel\OneDrive\Documentos\GitHub\CSharp\Exercises\ex009\ex009\bin\Debug\net8.0\ex009.runtimeconfig.json
+C:\Users\Gabriel\OneDrive\Documentos\GitHub\CSharp\Exercises\ex009\ex009\bin\Debug\net8.0\ex009.dll
+C:\Users\Gabriel\OneDrive\Documentos\GitHub\CSharp\Exercises\ex009\ex009\bin\Debug\net8.0\ex009.pdb
+C:\Users\Gabriel\OneDrive\Documentos\GitHub\CSharp\Exercises\ex009\ex009\obj\Debug\net8.0\ex009.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\OneDrive\Documentos\GitHub\CSharp\Exercises\ex009\ex009\obj\Debug\net8.0\ex009.AssemblyInfoInputs.cache
+C:\Users\Gabriel\OneDrive\Documentos\GitHub\CSharp\Exercises\ex009\ex009\obj\Debug\net8.0\ex009.AssemblyInfo.cs
+C:\Users\Gabriel\OneDrive\Documentos\GitHub\CSharp\Exercises\ex009\ex009\obj\Debug\net8.0\ex009.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\OneDrive\Documentos\GitHub\CSharp\Exercises\ex009\ex009\obj\Debug\net8.0\ex009.sourcelink.json
+C:\Users\Gabriel\OneDrive\Documentos\GitHub\CSharp\Exercises\ex009\ex009\obj\Debug\net8.0\ex009.dll
+C:\Users\Gabriel\OneDrive\Documentos\GitHub\CSharp\Exercises\ex009\ex009\obj\Debug\net8.0\refint\ex009.dll
+C:\Users\Gabriel\OneDrive\Documentos\GitHub\CSharp\Exercises\ex009\ex009\obj\Debug\net8.0\ex009.pdb
+C:\Users\Gabriel\OneDrive\Documentos\GitHub\CSharp\Exercises\ex009\ex009\obj\Debug\net8.0\ex009.genruntimeconfig.cache
+C:\Users\Gabriel\OneDrive\Documentos\GitHub\CSharp\Exercises\ex009\ex009\obj\Debug\net8.0\ref\ex009.dll
