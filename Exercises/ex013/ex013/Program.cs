@@ -1,27 +1,28 @@
 ﻿namespace Math {
 
-    class Triangle
+    class TriangleMath
     {
 
         static void Main()
         {
 
-            double xA, xB, xC, yA, yB, yC;
+            Triangle x = new Triangle();
+            Triangle y = new Triangle();
 
             Console.WriteLine("Entre com as medidas do triângulo X:");
 
-            xA = double.Parse(Console.ReadLine());
-            xB = double.Parse(Console.ReadLine());
-            xC = double.Parse(Console.ReadLine());
+            x.a = double.Parse(Console.ReadLine());
+            x.b = double.Parse(Console.ReadLine());
+            x.c = double.Parse(Console.ReadLine());
 
             Console.WriteLine("Entre com as medidas do triângulo Y:");
 
-            yA = double.Parse(Console.ReadLine());
-            yB = double.Parse(Console.ReadLine());
-            yC = double.Parse(Console.ReadLine());
+            y.a = double.Parse(Console.ReadLine());
+            y.b = double.Parse(Console.ReadLine());
+            y.c = double.Parse(Console.ReadLine());
 
-            double areaX = Area(xA, xB, xC);
-            double areaY = Area(yA, yB, yC);
+            double areaX = Area(x);
+            double areaY = Area(y);
 
             Console.WriteLine($"Área de X: {areaX}");
             Console.WriteLine($"Área de Y: {areaY}");
@@ -30,12 +31,12 @@
 
         }
 
-        private static double Area(double a, double b, double c)
+        private static double Area(Triangle tri)
         {
 
-            double p = (a + b + c) / 2;
+            double p = (tri.a + tri.b + tri.c) / 2;
             double area = System.Math.Sqrt(
-                p * (p - a) * (p - b) * (p - c)
+                p * (p - tri.a) * (p - tri.b) * (p - tri.c)
                 );
 
             return area;

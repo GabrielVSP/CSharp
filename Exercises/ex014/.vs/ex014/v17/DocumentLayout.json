@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabri\\Documents\\GitHub\\CSharp\\Exercises\\ex014\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{309AD0D5-FEC4-4F65-ACED-41FBBFD984D4}|ex014\\ex014.csproj|c:\\users\\gabri\\documents\\github\\csharp\\exercises\\ex014\\ex014\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{309AD0D5-FEC4-4F65-ACED-41FBBFD984D4}|ex014\\ex014.csproj|solutionrelative:ex014\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{309AD0D5-FEC4-4F65-ACED-41FBBFD984D4}|ex014\\ex014.csproj|c:\\users\\gabri\\documents\\github\\csharp\\exercises\\ex014\\ex014\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{309AD0D5-FEC4-4F65-ACED-41FBBFD984D4}|ex014\\ex014.csproj|solutionrelative:ex014\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Documents\\GitHub\\CSharp\\Exercises\\ex014\\ex014\\Worker.cs",
+              "RelativeDocumentMoniker": "ex014\\Worker.cs",
+              "ToolTip": "C:\\Users\\gabri\\Documents\\GitHub\\CSharp\\Exercises\\ex014\\ex014\\Worker.cs",
+              "RelativeToolTip": "ex014\\Worker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T20:47:13.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Documents\\GitHub\\CSharp\\Exercises\\ex014\\ex014\\Program.cs",
+              "RelativeDocumentMoniker": "ex014\\Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\Documents\\GitHub\\CSharp\\Exercises\\ex014\\ex014\\Program.cs",
+              "RelativeToolTip": "ex014\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T20:43:37.973Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
