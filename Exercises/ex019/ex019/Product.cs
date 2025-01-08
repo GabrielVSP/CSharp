@@ -22,6 +22,14 @@ namespace ex019
 
         }
 
+        public Product(string name, double price)
+        {
+
+            this.name = name;
+            this.price = price;
+
+        }
+
         public string Set(string name, double price, int qnt = 0)
         {
             this.name = name;

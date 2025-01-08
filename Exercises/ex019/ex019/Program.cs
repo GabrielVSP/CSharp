@@ -20,7 +20,7 @@ namespace ex019
             Console.Write("Quantidade: ");
             int qnt = int.Parse(Console.ReadLine());
 
-            Product product = new Product(name, price, qnt);
+            Product product = new Product(name, price);
 
             Console.WriteLine(product);
             Console.WriteLine("Quantidade de produtos a ser adicionada no estoque: ");
