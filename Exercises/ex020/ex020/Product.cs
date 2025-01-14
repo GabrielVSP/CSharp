@@ -12,7 +12,7 @@ namespace ex020
 
         private string _name;
         private double _price;
-        private int _qnt;
+        public int _qnt { get; private set; }
 
         public Product(string name, double price, int qnt)
         {
