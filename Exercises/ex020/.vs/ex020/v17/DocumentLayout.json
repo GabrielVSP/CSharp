@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\gabri\\Documents\\GitHub\\CSharp\\Exercises\\ex020\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{290F1180-0F5A-4AE5-9CD1-75E0196BF22E}|ex020\\ex020.csproj|c:\\users\\gabri\\documents\\github\\csharp\\exercises\\ex020\\ex020\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{290F1180-0F5A-4AE5-9CD1-75E0196BF22E}|ex020\\ex020.csproj|solutionrelative:ex020\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{290F1180-0F5A-4AE5-9CD1-75E0196BF22E}|ex020\\ex020.csproj|c:\\users\\gabri\\documents\\github\\csharp\\exercises\\ex020\\ex020\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{290F1180-0F5A-4AE5-9CD1-75E0196BF22E}|ex020\\ex020.csproj|solutionrelative:ex020\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{290F1180-0F5A-4AE5-9CD1-75E0196BF22E}|ex020\\ex020.csproj|c:\\users\\gabri\\documents\\github\\csharp\\exercises\\ex020\\ex020\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{290F1180-0F5A-4AE5-9CD1-75E0196BF22E}|ex020\\ex020.csproj|solutionrelative:ex020\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\Documents\\GitHub\\CSharp\\Exercises\\ex020\\ex020\\Product.cs",
               "RelativeDocumentMoniker": "ex020\\Product.cs",
               "ToolTip": "C:\\Users\\gabri\\Documents\\GitHub\\CSharp\\Exercises\\ex020\\ex020\\Product.cs",
               "RelativeToolTip": "ex020\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-14T12:24:47.957Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\Documents\\GitHub\\CSharp\\Exercises\\ex020\\ex020\\Program.cs",
               "RelativeDocumentMoniker": "ex020\\Program.cs",
               "ToolTip": "C:\\Users\\gabri\\Documents\\GitHub\\CSharp\\Exercises\\ex020\\ex020\\Program.cs",
               "RelativeToolTip": "ex020\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABTAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-14T12:20:39.739Z",
               "EditorCaption": ""

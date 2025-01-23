@@ -1,0 +1,15 @@
+C:\Users\gabri\Documents\GitHub\CSharp\Exercises\ex022\ex022\bin\Debug\net8.0\ex022.exe
+C:\Users\gabri\Documents\GitHub\CSharp\Exercises\ex022\ex022\bin\Debug\net8.0\ex022.deps.json
+C:\Users\gabri\Documents\GitHub\CSharp\Exercises\ex022\ex022\bin\Debug\net8.0\ex022.runtimeconfig.json
+C:\Users\gabri\Documents\GitHub\CSharp\Exercises\ex022\ex022\bin\Debug\net8.0\ex022.dll
+C:\Users\gabri\Documents\GitHub\CSharp\Exercises\ex022\ex022\bin\Debug\net8.0\ex022.pdb
+C:\Users\gabri\Documents\GitHub\CSharp\Exercises\ex022\ex022\obj\Debug\net8.0\ex022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\GitHub\CSharp\Exercises\ex022\ex022\obj\Debug\net8.0\ex022.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\GitHub\CSharp\Exercises\ex022\ex022\obj\Debug\net8.0\ex022.AssemblyInfo.cs
+C:\Users\gabri\Documents\GitHub\CSharp\Exercises\ex022\ex022\obj\Debug\net8.0\ex022.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\GitHub\CSharp\Exercises\ex022\ex022\obj\Debug\net8.0\ex022.sourcelink.json
+C:\Users\gabri\Documents\GitHub\CSharp\Exercises\ex022\ex022\obj\Debug\net8.0\ex022.dll
+C:\Users\gabri\Documents\GitHub\CSharp\Exercises\ex022\ex022\obj\Debug\net8.0\refint\ex022.dll
+C:\Users\gabri\Documents\GitHub\CSharp\Exercises\ex022\ex022\obj\Debug\net8.0\ex022.pdb
+C:\Users\gabri\Documents\GitHub\CSharp\Exercises\ex022\ex022\obj\Debug\net8.0\ex022.genruntimeconfig.cache
+C:\Users\gabri\Documents\GitHub\CSharp\Exercises\ex022\ex022\obj\Debug\net8.0\ref\ex022.dll
